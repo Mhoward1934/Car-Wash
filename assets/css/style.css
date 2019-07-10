@@ -1,12 +1,14 @@
 .navbar {
     width: 100%;
     box-shadow: 0 4px 8px 0px rgba(17, 17, 32, 0.2), 0 6px 20px 0 rgba(17, 17, 32, 0.12);
-    position: fixed;
 }
 
 .header {
-    height: 300px;
+    height: 500px;
     padding-top: 60px;
+    background-image: url("../images/bubble-clean-clear-339119.jpg");
+    background-attachment: fixed;
+    background-size: 100%;
 }
 
 .about p {
