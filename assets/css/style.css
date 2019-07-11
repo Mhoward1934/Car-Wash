@@ -25,9 +25,11 @@
 .banner {
     padding-top: 20px;
     padding-bottom: 10px;
-    font-size: 28px;
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    line-height: 4px;
     /* text-shadow: 0 4px 8px 0px rgba(17, 17, 32, 0.2), 0 6px 20px 0 rgba(17, 17, 32, 0.12); */
-    font-family: cursive;
     text-align: center;
     background-color: blue;
     box-shadow: 0 4px 8px 0px rgba(17, 17, 32, 0.20), 0 6px 20px 0 rgba(17, 17, 32, 0.40);
