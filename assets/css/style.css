@@ -8,7 +8,9 @@
     padding-top: 60px;
     background-image: url("../images/bubble-clean-clear-339119.jpg");
     background-attachment: fixed;
-    background-size: 100%;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
 }
 
 .about p {
