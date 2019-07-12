@@ -45,5 +45,13 @@
 .contact {
     padding-top: 100px;
     padding-bottom: 100px;
-    background-color: rgb(170, 171, 240);
+    background-color: rgb(226, 244, 245);
+    line-height: 4px;
+}
+
+.contact img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px 0px rgba(17, 17, 32, 0.20), 0 6px 20px 0 rgba(17, 17, 32, 0.40);
 }
