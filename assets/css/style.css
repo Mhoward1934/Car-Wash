@@ -20,7 +20,7 @@
 }
 
 .header img {
-    border-radius: 30%;
+    border-radius: 50%;
     width: 100%;
     height: auto;
     box-shadow: 0 4px 8px 0px rgba(17, 17, 32, 0.20), 0 6px 20px 0 rgba(17, 17, 32, 0.40);
@@ -41,12 +41,10 @@
     padding-top: 20px;
     padding-bottom: 10px;
     font-size: 20px;
-    margin-left: 50px;
-    margin-right: 50px;
     line-height: 4px;
     /* text-shadow: 0 4px 8px 0px rgba(17, 17, 32, 0.2), 0 6px 20px 0 rgba(17, 17, 32, 0.12); */
     text-align: center;
-    background-color: rgb(130, 123, 139);
+    background-color: rgb(238, 229, 108);
     box-shadow: 0 4px 8px 0px rgba(17, 17, 32, 0.20), 0 6px 20px 0 rgba(17, 17, 32, 0.40);
 }
 
