@@ -5,12 +5,25 @@
 
 .header {
     height: 500px;
-    padding-top: 60px;
+    padding-top: 80px;
+    padding-left: 150px;
     background-image: url("../images/bubble-clean-clear-339119.jpg");
     background-attachment: fixed;
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+    line-height: 4px;
+}
+
+.header p {
+    padding-left: 120px;
+}
+
+.header img {
+    border-radius: 30%;
+    width: 100%;
+    height: auto;
+    box-shadow: 0 4px 8px 0px rgba(17, 17, 32, 0.20), 0 6px 20px 0 rgba(17, 17, 32, 0.40);
 }
 
 .about p {
