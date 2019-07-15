@@ -8,10 +8,13 @@
   height: 500px;
   padding-top: 80px;
   background-image: url("../images/bubble-clean-clear-339119.jpg");
-  background-attachment: fixed;
-  background-size: cover;
-  background-position: center center;
   background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
   line-height: 4px;
 }
 
@@ -85,6 +88,22 @@
 }
 
 /* Media Query */
+
+@media screen and (max-width: 768px) {
+  div.header {
+    height: 400px;
+  }
+
+  div.header h1 {
+    font-size: 60px;
+    padding-left: 30px;
+  }
+
+  div.about {
+    padding-left: 75px;
+    padding-right: 75px;
+  }
+}
 
 @media screen and (max-width: 500px) {
   div.header {
